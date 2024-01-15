@@ -1,4 +1,4 @@
-# Movie-Recommendation
+# Movie-Recommendation🎥
 
 ## Welcome to my GitHub repository on Using Predictive Analytics model for Movie Recommendation.
 
