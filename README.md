@@ -22,6 +22,7 @@ The repository is a learning exercise to:
 ### how Cosine-Similarity works:
 * cosine_similarity is used to compute the cosine similarity matrix based on the TF-IDF matrix.
 
+
 * cosine_similarity is a measure of similarity between two non-zero vectors of an inner product space. It is widely used in various applications, including information retrieval, text mining, and recommendation systems. In the context of natural language processing (NLP) and document similarity, cosine similarity is often used to compare the similarity of documents based on the content of the words.
 
 * Cosine_Similarity(A,B) = A.B/|A|.|B|
@@ -29,11 +30,13 @@ The repository is a learning exercise to:
 * A.B is dot product of vectors A and B
 * 
 * |A| and |B| are Euclidean norms of vectors A and B
+  
 
 ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
 
 
 ### Similarity_Score
+
 
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
