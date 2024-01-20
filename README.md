@@ -3,6 +3,7 @@
 ## Welcome to my GitHub repository on Using Predictive Analytics model for Movie Recommendation.
 
 ### Objective:
+
 The repository is a learning exercise to:
 * Apply the fundamental concepts of feature extraction from an available dataset
 * Evaluate and interpret my results and justify my interpretation based on observed data set
