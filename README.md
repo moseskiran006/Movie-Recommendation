@@ -30,7 +30,7 @@ The repository is a learning exercise to:
 
 * A.B is dot product of vectors A and B
 * 
-* |A| and |B| are Euclidean norms of vectors A and 
+* |A| and |B| are Euclidean norms of vectors A and B
   
 
 ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
