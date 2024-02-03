@@ -12,7 +12,7 @@ The repository is a learning exercise to:
 ### steps for building recommendation engine:
 
 * Exploratory Data Analysis
-* Pre-Processing the Dat
+* Pre-Processing the Data
 * model building
 
 ### TF-IDF Feature-extraction  Technique
