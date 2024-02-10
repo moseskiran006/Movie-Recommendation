@@ -11,7 +11,7 @@ The repository is  learning exercise to:
 
 ### steps for building recommendation engine:
 
-* Exploratory Data Analysis
+* Exploratory Data Analys
 * Pre-Processing the Data
 * model building
 
