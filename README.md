@@ -4,7 +4,7 @@
 
 ### Objective:
 
-The repository is a learning exercise to:
+The repository is  learning exercise to:
 * Apply the fundamental concepts of feature extraction from an available dataset
 * Evaluate and interpret my results and justify my interpretation based on observed data set
 * Create notebooks that serve as computational records and document my thought process. 
