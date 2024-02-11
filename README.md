@@ -5,7 +5,7 @@
 ### Objective:
 
 The repository is  learning exercise to:
-* Apply the fundamental concepts of feature extraction from an available dataset
+* Apply the fundamental concepts of feature extraction from an available datas
 * Evaluate and interpret my results and justify my interpretation based on observed data set
 * Create notebooks that serve as computational records and document my thought process. 
 
