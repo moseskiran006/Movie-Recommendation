@@ -1,6 +1,6 @@
 # Movie-Recommendation🎥
 
-## Welcome to my GitHub repository on Using Predictive Analytics model for Movie Recommeatn.
+## Welcome to my GitHub repository on Using Predictive Analytics model for Movie Recommendatn.
 
 ### Objective:
 
