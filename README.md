@@ -13,7 +13,7 @@ The repository is  learning exercise to:
 
 * Exploratory Data Analysis
 * Pre-Processing the Data
-* model buil
+* model bu
 
 ### TF-IDF Feature-extraction  Technique
 * TF-IDF (Term Frequency-Inverse Document Frequency) algorithm is a feature extraction technique used in natural language processing (NLP) and information retrieval.
